@@ -19,6 +19,7 @@ nav {
   padding: 10px 0 15px 15px;
   position: fixed;
   width: 420px;
+  z-index: 1;
 }
 .restaurant-list {
   border-bottom: 1px;
@@ -34,6 +35,8 @@ nav {
   width: 420px;
   padding-top: 10px;
   padding-bottom: 10px;
+  border-bottom: 60px;
+  border-color: black;
 }
 
 .content {
@@ -67,5 +70,5 @@ h3 {
 }
 
 .location-box:hover {
-  background-color: gold;
+  background-color: darkgray;
 }
