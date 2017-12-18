@@ -22,7 +22,7 @@ nav {
   z-index: 1;
 }
 .restaurant-list {
-  border-bottom: 1px;
+  border-bottom: 1px solid color;
   border-style: solid;
   border-color: lightgray;
   padding-top: 10%;
@@ -35,7 +35,7 @@ nav {
   width: 420px;
   padding-top: 10px;
   padding-bottom: 10px;
-  border-bottom: 60px;
+  border-bottom: 1px solid #000;
   border-color: black;
 }
 
